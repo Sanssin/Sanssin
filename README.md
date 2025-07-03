@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Ihsanudin</h1>
 <h3 align="center">I am an Undergraduate Student in Polytechnic Institute of Nuclear Technology. I went into this field accidentally.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanssin" alt="Sanssin" /></a> </p>
+- 🌱 I’m currently learning **React, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanssin&show_icons=true&locale=en&layout=compact" alt="sanssin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanssin&show_icons=true&locale=en" alt="sanssin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanssin&" alt="sanssin" /></p>
