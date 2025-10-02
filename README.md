@@ -20,8 +20,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/username=sanssin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br/>
-  <!-- Radar chart -->
-  <img src="https://raw.githubusercontent.com/sanssins/sanssin/profile-summary-card-output/2077/0-profile-details.svg" />
+  ![](https://raw.githubusercontent.com/Sanssin/Sanssin/main/profile-summary-card-output/2077/0-profile-details.svg)
 </div>
 
 
