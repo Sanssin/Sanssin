@@ -1,0 +1,19 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # update otomatis setiap jam 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # bisa juga dijalankan manual
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # opsional: pilih tema, contoh "default", "solarized", "dracula"
+          THEME: default
