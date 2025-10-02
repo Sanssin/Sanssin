@@ -1,12 +1,10 @@
 name: GitHub Profile Summary Cards
 
 on:
-  push:               # 🔹 ini yang bikin jalan saat kamu commit/push
-    branches: [ "main" ]
-  # update otomatis setiap jam 00:00 UTC
+  push:
+    branches: [ "main", "master" ]
   schedule:
     - cron: "0 0 * * *"
-  # bisa juga dijalankan manual
   workflow_dispatch:
 
 jobs:
@@ -17,5 +15,5 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: ${{ github.repository_owner }}
-          # opsional: pilih tema, contoh "default", "solarized", "dracula"
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           THEME: default
