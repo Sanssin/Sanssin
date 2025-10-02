@@ -19,6 +19,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=sanssin&theme=radical&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/username=sanssin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br/>
   <!-- Radar chart -->
   <img src="https://raw.githubusercontent.com/sanssin/sanssin/master/profile-summary-card-output/default/5-radar.svg" />
 </div>
