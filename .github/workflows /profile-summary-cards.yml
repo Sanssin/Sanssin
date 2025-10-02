@@ -1,6 +1,8 @@
 name: GitHub Profile Summary Cards
 
 on:
+  push:               # 🔹 ini yang bikin jalan saat kamu commit/push
+    branches: [ "main" ]
   # update otomatis setiap jam 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
