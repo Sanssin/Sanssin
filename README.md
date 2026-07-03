@@ -1,34 +1,103 @@
-<h1 align="center">Hi 👋, I'm Nur Ihsanudin</h1>
-<h3 align="center">I am an Undergraduate Student in Polytechnic Institute of Nuclear Technology. I went into this field accidentally.</h3>
-
-- 🌱 I’m currently learning **React, Python**
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lhsxn_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lhsxn_n" height="30" width="40" /></a>
-</p>
--->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="justify"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
+<!-- Header / Typing effect -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanssin&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanssin&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=sanssin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <br/>
-<img src="https://raw.githubusercontent.com/Sanssin/Sanssin/main/profile-summary-card-output/2077/0-profile-details.svg" width="600" alt="Profile Details"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4ade80&center=true&vCenter=true&width=600&lines=%3E+ssh+guest%40sanssin.dev;%3E+Establishing+secure+connection...;%3E+Access+Granted.;%3E+Welcome+to+Nur+Ihsanudin's+Workspace!" alt="Typing SVG" />
 </div>
 
+<br/>
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanssin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Bio -->
+```bash
+sanssin@ubuntu:~$ whoami
+Nur Ihsanudin
 
+sanssin@ubuntu:~$ cat bio.txt
+Started in nuclear instrumentation by accident.
 
-[![](https://visitcount.itsvg.in/api?id=sanssin&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+Never left, because the alternative was explaining career changes to my mom.
+
+Now building web platforms for nuclear science and ML models that occasionally work.
+```
+
+<!-- Skills -->
+```bash
+sanssin@ubuntu:~$ ls -l ./skills
+```
+
+<p align="left">
+  <strong>💻 Frontend & Scripting:</strong><br/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="Matlab" />
+</p>
+
+<p align="left">
+  <strong>⚙️ Tools & Infrastructure:</strong><br/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
+
+<br/>
+
+<!-- Projects -->
+```bash
+sanssin@ubuntu:~$ ./show_featured_projects.sh --top 4
+Loading repositories...
+```
+
+| | |
+| :---: | :---: |
+| <br/><a href="https://github.com/Sanssin/Inite"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=7aa2f7&center=true&vCenter=true&width=350&height=40&lines=%3E_Inite" alt="Inite" /></a><br/><br/>Indonesian Nuclear Interactive Website.<br/><br/>`React` `JavaScript` `Python` `HTML5`<br/><br/> | <br/><a href="https://github.com/Sanssin/pkm-simulator-PLTN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=f7768e&center=true&vCenter=true&width=350&height=40&lines=%3E_PWR+NPP+Simulator" alt="PWR NPP Simulator" /></a><br/><br/>Firmware for PWR nuclear reactor simulation using Raspberry Pi.<br/><br/>`Python` `Raspberry Pi` `Touchscreen`<br/><br/> |
+| <br/><a href="https://github.com/Sanssin/Smart-Irrigation-System-based-Time-using-Arduino-and-RTC"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=9ece6a&center=true&vCenter=true&width=350&height=40&lines=%3E_Smart+Irrigation" alt="Smart Irrigation System" /></a><br/><br/>Automated plant watering system based on Arduino and RTC.<br/><br/>`Arduino` `C++` `RTC`<br/><br/> | <br/><a href="https://github.com/Sanssin/esp32-oscilloscope"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=e0af68&center=true&vCenter=true&width=350&height=40&lines=%3E_ESP32+Oscilloscope" alt="ESP32 Oscilloscope" /></a><br/><br/>Digital oscilloscope project utilizing ESP32 microcontroller.<br/><br/>`ESP32` `C++`<br/><br/> |
+
+<br/>
+
+<!-- Stats -->
+```bash
+sanssin@ubuntu:~$ htop --user sanssin --view github_stats
+```
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details"/>
+</div>
+<br/>
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="195" alt="GitHub Stats"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="195" alt="Repos per Language"/>
+</div>
+
+<br/>
+
+<!-- Contact -->
+```bash
+sanssin@ubuntu:~$ ./connect_to_network.sh
+Connecting to external relays... [OK]
+```
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nur-ihsanudin" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=0077b5&center=true&vCenter=true&width=260&height=60&lines=ping+-c+1+LinkedIn;%E2%9E%9C+in%2Fnur-ihsanudin;%E2%9C%94+Connected" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/lhsxn_n" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=E4405F&center=true&vCenter=true&width=260&height=60&lines=ping+-c+1+Instagram;%E2%9E%9C+%40lhsxn_n;%E2%9C%94+Connected" alt="Instagram" />
+  </a>
+  <a href="mailto:nur.ihsanudin@polteknuklir.ac.id" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=4ade80&center=true&vCenter=true&width=260&height=60&lines=ping+-c+1+Email;%E2%9E%9C+Send+Message;%E2%9C%94+Connected" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=100&section=footer" width="100%" alt="Footer"/>
+</p>
